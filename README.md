@@ -10,7 +10,7 @@ The report highlights:
 ---
 
 ## 🔗 Access the Dashboard
-- [View live dashboard in Looker Studio]([(https://lookerstudio.google.com/reporting/8d0bf522-10bf-4955-aed0-9b10d8d8dc4a])  
+- [View live dashboard in Looker Studio]((https://lookerstudio.google.com/reporting/8d0bf522-10bf-4955-aed0-9b10d8d8dc4a)  
 - PDF file In the Repository
 ---
 
